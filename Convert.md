@@ -71,3 +71,4 @@ to models produced with TensorFlow Saved Model.
 
 ## Browser 
 I tried following the instructions on collab but that did not work out. I personally feel that the documentation is a bit confusing as it mentions to use web servers and CORS but does not give any further documentation. I think this can be a possible imporvement to the other wise fantastic documenttion. 
+I hope to continue to try to implement it to a browser, even after the deadline 
