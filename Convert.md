@@ -63,7 +63,7 @@ After using a custom model for the Layers model, I decided to use a pre-trained 
     /../home
   ```
   
-Once doubt that I could not solve is why there are a different number of ```shrad``` files for different models? I would love if a mentor could answer it. 
+One doubt that I could not solve is why there are a different number of ```shrad``` files for different models? I would love if a mentor could answer it. 
 
 ## Difference
 The Principal difference is that the Layers model is used to convert models produced using Keras while the Graph model is used
